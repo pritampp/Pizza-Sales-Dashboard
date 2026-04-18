@@ -36,6 +36,6 @@ This dashboard helps business users to:
 # 📸 Dashboard Preview
 
 This dashboard provides insights into pizza sales performance, including revenue, order trends, category-wise analysis, and peak sales hours. 
-![Pizza Sales Dashboard](https://github.com/pritampp/Pizza-Sales-Dashboard/raw/main/Pizza%20Sales%20Dashboard.png)
+![Pizza Sales Dashboard](https://github.com/pritampp/Pizza-Sales-Dashboard/blob/main/Pizza%20Sales%20Analytics.png)
 
 
